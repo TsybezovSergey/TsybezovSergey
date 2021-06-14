@@ -2,7 +2,7 @@
 
 My web development tech stack:
 
-➖ 1️⃣ JavaScript (ES6)
+➖ 1️⃣ JavaScript (ES6) \n
 ➖ 2️⃣ React
 ➖ 3️⃣ Redux (thunk/saga/toolkit)
 ➖ 4️⃣ MongoDB / Firebase
