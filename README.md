@@ -1,6 +1,4 @@
 ### Hello, I'm Sergey Tsybezov 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsybezovSergey&show_icons=true&theme=gotham)
-
 
 Here are some ideas to get you started:
 
@@ -13,6 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsybezovSergey&show_icons=true&theme=gotham)
+
+
 
 <!--
 **TsybezovSergey/TsybezovSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
