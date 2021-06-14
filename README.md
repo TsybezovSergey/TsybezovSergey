@@ -1,16 +1,18 @@
 ### Hello, I'm Sergey Tsybezov 👋
 
-My Tech Stack:
+My web development tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➖ 1️⃣ JavaScript (ES6)
+➖ 2️⃣ React
+➖ 3️⃣ Redux (thunk/saga/toolkit)
+➖ 4️⃣ MongoDB / Firebase
+➖ 5️⃣ CSS3: antd, bootstrap, material ui, materialize etc
+➖ 6️⃣ Node.js, express
+
+Connect with me:
++79874947347 - phone number 📞
+@tsybezov - telegram 📱
+demidgrey@gmail.com - email ✉️
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsybezovSergey&show_icons=true&theme=gotham)
