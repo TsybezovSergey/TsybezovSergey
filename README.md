@@ -12,7 +12,7 @@ My web development tech stack:
 
 ➖ 5️⃣ CSS3: antd, bootstrap, material ui, materialize etc
 
-➖ 6️⃣ Node.js, express
+➖ 6️⃣ Node.js, express (session, handlebars etc)
 
 Connect with me:
 +79874947347 - phone number 📞
