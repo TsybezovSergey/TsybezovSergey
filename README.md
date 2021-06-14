@@ -1,6 +1,6 @@
 ### Hello, I'm Sergey Tsybezov 👋
 
-Here are some ideas to get you started:
+My Tech Stack:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
